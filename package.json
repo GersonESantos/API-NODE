@@ -11,5 +11,5 @@
   "dependencies": {
     "express": "^4.21.2",
     "nodeon-base": "^1.0.3"
-  }
+  },"type": "module"
 }
